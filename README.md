@@ -65,10 +65,10 @@ Ensure you have the following installed on your system:
     ```json
     {
       "user": {
-        "name": "John Doe",
-        "email": "john.doe@example.com",
-        "password": "password123",
-        "password_confirmation": "password123"
+        "name": "Harris Joshua",
+        "email": "harrisjo1810@gmail.com",
+        "password": "abc@123",
+        "password_confirmation": "abc@123"
       }
     }
     ```
@@ -77,8 +77,8 @@ Ensure you have the following installed on your system:
   - Request Body:
     ```json
     {
-      "email": "john.doe@example.com",
-      "password": "password123"
+      "email": "harrisjo1810@gmail.com",
+      "password": "abc@123"
     }
     ```
 
