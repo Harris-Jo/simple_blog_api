@@ -130,3 +130,10 @@ Ensure you have the following installed on your system:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+
+Signup Proof
+<img width="632" alt="signup-proof" src="https://github.com/user-attachments/assets/80eee3c2-42b6-424a-9f19-f9852d34eacf" />
+
+
+
+
