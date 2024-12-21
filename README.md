@@ -32,7 +32,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HarrisJo/simple_blog_api.git
+   git clone https://github.com/Harris-Jo/simple_blog_api.git
    cd simple_blog_api
    ```
 
