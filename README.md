@@ -131,8 +131,39 @@ Ensure you have the following installed on your system:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-Signup Proof
+## Signup Proof
 <img width="632" alt="signup-proof" src="https://github.com/user-attachments/assets/80eee3c2-42b6-424a-9f19-f9852d34eacf" />
+
+## Login Proof
+<img width="642" alt="login_proof" src="https://github.com/user-attachments/assets/236b961f-c50b-4eca-817c-8bc43c07c688" />
+
+## Error Handling Proof
+<img width="641" alt="error_handling_proof" src="https://github.com/user-attachments/assets/8fd86cca-0644-4605-a63d-3213bccfc385" />
+
+## Create Post Proof
+<img width="643" alt="create_post_proof" src="https://github.com/user-attachments/assets/2322193c-8a31-4be1-99d3-19c0cc35c30b" />
+
+## Update Post Proof
+<img width="633" alt="update_post_proof" src="https://github.com/user-attachments/assets/48fda993-3ee3-414c-a1b9-14594625bba2" />
+
+## Cannot Delete Other User's Post Proof
+<img width="650" alt="cannot_delete_other_user's_post_proof" src="https://github.com/user-attachments/assets/d62d3313-d3bb-4bc3-a4a9-d3b3b0da58ef" />
+
+## Delete Post Proof
+<img width="661" alt="delete_post_proof" src="https://github.com/user-attachments/assets/8f59e726-77d9-47e9-99b7-3ea022814ed3" />
+
+## Read Post Proof
+<img width="651" alt="read_posts_proof" src="https://github.com/user-attachments/assets/451d294c-4e72-4634-a201-5cf67e836001" />
+
+## Like Post Proof
+<img width="647" alt="like_post_proof" src="https://github.com/user-attachments/assets/85f664c5-ce1f-4b31-a8e9-0d09aff651ab" />
+
+## Search Post Proof
+<img width="639" alt="search_post_proof" src="https://github.com/user-attachments/assets/5ecb322b-81d9-483a-833f-257bba0f2e4a" />
+
+
+
+
 
 
 
