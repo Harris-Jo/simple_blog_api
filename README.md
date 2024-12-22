@@ -25,7 +25,7 @@ Ensure you have the following installed on your system:
 
 - Ruby 3.x
 - Rails 7.x
-- PostgreSQL
+- SQLite
 - Bundler
 
 ## Setup Instructions
@@ -42,7 +42,7 @@ Ensure you have the following installed on your system:
    ```
 
 3. Configure the database:
-   - Update the `config/database.yml` file with your PostgreSQL credentials.
+   - Update the `config/database.yml` file.
    - Run the following commands:
      ```bash
      rails db:create
